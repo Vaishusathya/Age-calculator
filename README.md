@@ -36,7 +36,7 @@ A single-screen Android app, built with **MIT App Inventor**, that compares two 
 
 
 
-![App Screenshot](Screenshot%20(placeholder)
+![App Screenshot](Screenshot_20260916_211241.jpg)
 
 .png)
 
