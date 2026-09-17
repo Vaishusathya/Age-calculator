@@ -11,7 +11,7 @@ A single-screen Android app, built with **MIT App Inventor**, that compares two 
 5. It shows the result as **years.months**, e.g. *"26.0"*
 ## 🌐 Live Demo
 
-[Try it here](https://claude.ai/artifact/P7v28VTqUW2uVGN84J7RRf)
+[Try it here](https://vaishusathya.github.io/Age-calculator/)
 
 ## Features
 
